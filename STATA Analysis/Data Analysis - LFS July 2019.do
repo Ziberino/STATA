@@ -30,7 +30,7 @@ predict resid, residuals
 sktest resid
 
 
-* wage ang age are transformed to log form to make it more "normal"  *
+* wage and age are transformed to log form to make it more "normal"  *
 tabstat wage age sex education industry, stat(sk)
 g lwage = log(wage)
 g lage = log(age)
