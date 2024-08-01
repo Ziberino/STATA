@@ -13,6 +13,7 @@
   - _Categorizing sex, education and industry_
 
 **4. Imported the Excel data to STATA**
+
 **5. Analyzed the data using STATA**
 
 
